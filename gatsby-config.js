@@ -25,7 +25,7 @@ module.exports = {
         // Use 'Advanced Custom Fields' Wordpress plugin
         useACF: false,
         auth: {
-          wpcom_app_clientSecret: process.env.CLIENTSECRERT,
+          wpcom_app_clientSecret: process.env.CLIENTSECRET,
           wpcom_app_clientId: "64465",
           wpcom_user: process.env.USERNAME,
           wpcom_pass: process.env.PASS
