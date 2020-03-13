@@ -697,3 +697,27 @@ ul#grouptable img {
   border: none;
   margin: auto auto;
 }
+
+
+.alert {
+    position: relative;
+    padding: .75rem 1.25rem;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+	border-radius: .25rem;
+	margin-left: 2rem;
+	margin-right: 2rem;
+}
+
+.alert-warning {
+	color: #856404;
+    background-color: #fff3cd;
+    border-color: #ffeeba;
+}
+
+.alert-heading {
+	font-size: 1.5rem;
+	margin-bottom: .5rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
