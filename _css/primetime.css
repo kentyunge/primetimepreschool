@@ -81,8 +81,9 @@ dd {
 /* images */
 img {
 	background: #fafafa;
-   border: 1px solid #dcdcdc;
+   	border: 1px solid #dcdcdc;
 	padding: 7px;
+	width:100%;
 }
 img.float-right {
   	margin: 5px 0px 10px 10px;  
